@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 __pycache__
 ip_mappings.txt
+data/starlink_simulator/*
+data/starlink_simulator.zip
