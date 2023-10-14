@@ -4,3 +4,9 @@ __pycache__
 ip_mappings.txt
 data/starlink_simulator/*
 data/starlink_simulator.zip
+data/VNL_v21_npp_2020_global_vcmslcfg_c202205302300.median_masked.dat.tif
+data/ACS_Population_Variables_-_Boundaries/
+data/ACS_Median_Household_Income_Variables_-_Boundaries/
+data/*_lights.tif
+data/gpw_v4_population_count_rev11_2020_15_min.tif
+data/gadm_410-levels.gpkg
