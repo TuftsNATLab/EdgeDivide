@@ -1,6 +1,6 @@
 # Divided at the Edge - Measuring Performance and the Digital Divide of Cloud Edge Data Centers
 
-Code to reproduce the results in *Divided at the Edge - Measuring Performance and the Digital Divide of Cloud Edge Data Centers* which was accepted in CoNEXT 2023.
+Code to reproduce the results in [*Divided at the Edge - Measuring Performance and the Digital Divide of Cloud Edge Data Centers*](https://dl.acm.org/doi/10.1145/3629138) which was accepted in CoNEXT 2023.
 
 ## Abstract
 
